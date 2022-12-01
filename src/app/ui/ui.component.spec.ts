@@ -96,7 +96,7 @@ describe('Ui Addition - Component', () => {
 
     // Assert
     expect(el.innerText).toContain('10');
-     
+    //comentra 
   });
 
 });
