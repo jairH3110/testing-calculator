@@ -73,4 +73,4 @@ export class UiComponent implements OnInit {
     this.text = "La Raíz es: " + this.result;
   }
 
-}
+}// contenido variale
