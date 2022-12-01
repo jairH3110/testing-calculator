@@ -65,7 +65,7 @@ export class UiComponent implements OnInit {
     this.result = myresult;
     this.text = "El cuadrado es: " + this.result;
   }
-
+//n
   sqrt() {
     let myresult = 1;
     myresult = sqrt(this.operator1);
