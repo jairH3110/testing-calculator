@@ -27,4 +27,4 @@ export class UiComponent implements OnInit {
     alert("substraction here !");
   }
 
-}
+}// contenido variale
