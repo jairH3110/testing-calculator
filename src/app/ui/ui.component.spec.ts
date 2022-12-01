@@ -35,7 +35,7 @@ describe('Ui Addition - Component', () => {
      expect(result).toBe(4);
   });
 
-
+//comen
 
   it('Should set operator1 model through ngModel', async() => {
     // Arrange 
