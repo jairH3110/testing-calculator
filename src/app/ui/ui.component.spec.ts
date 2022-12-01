@@ -38,7 +38,7 @@ describe('Ui Addition - Component', () => {
 
 
   it('Should set operator1 model through ngModel', async() => {
-    // Arrange 
+    // Arrange lol 0u
     await fixture.whenStable();
     fixture.detectChanges();
     const inputElement = fixture.debugElement.query(By.css('input[name="operator1"]')).nativeElement;
