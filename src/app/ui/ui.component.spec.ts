@@ -58,7 +58,7 @@ describe('Ui Addition - Component', () => {
     fixture.detectChanges();
     const inputElement = fixture.debugElement.query(By.css('input[name="operator2"]')).nativeElement;
 
-    // Act 
+    // Act looool
     inputElement.value = '2.71';
     inputElement.dispatchEvent(new Event('input'));
     fixture.detectChanges();
