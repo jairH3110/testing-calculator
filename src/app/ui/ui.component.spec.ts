@@ -43,7 +43,7 @@ describe('Ui Addition - Component', () => {
     fixture.detectChanges();
     const inputElement = fixture.debugElement.query(By.css('input[name="operator1"]')).nativeElement;
 
-    // Act 
+    // Act sss
     inputElement.value = '3.1416';
     inputElement.dispatchEvent(new Event('input'));
     fixture.detectChanges();
